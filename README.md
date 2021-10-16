@@ -1,5 +1,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meme8383&theme=dracula&show_icons=true&locale=en" alt="meme8383" /></p>
 
+[![meme8383's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=meme8383)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github.com/meme8383/meme8383/blob/main/images/stat.svg" alt="meme8383 WakaTime Activity"/>
 
 <h3 align="left">Languages and Tools:</h3>
