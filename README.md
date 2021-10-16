@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meme8383&show_icons=true&locale=en" alt="meme8383" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meme8383&theme=dracula&show_icons=true&locale=en" alt="meme8383" /></p>
 
 <img src="https://github.com/meme8383/meme8383/blob/main/images/stat.svg" alt="meme8383 WakaTime Activity"/>
 
