@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=meme8383&theme=dracula&show_icons=true&locale=en" alt="meme8383" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=meme8383" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=meme8383&theme=dracula" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
