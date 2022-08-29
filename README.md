@@ -3,6 +3,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=meme8383&theme=dracula&show_icons=true&locale=en" alt="meme8383" /></a>
 </p>
 
+My python time would be insane if wakatime supported spyder
 <p align="center">
   <a href="https://wakatime.com/@meme8383"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=meme8383&theme=dracula" /></a>
 </p>
