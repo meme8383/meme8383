@@ -1,3 +1,11 @@
+Purdue University Aerospace Engineering '26
+
+Python Proficient, Anime Connoisseur.
+I only commit to fix bugs in programs I use.
+HTML is not a programming language.
+
+"We should not be upset that others hide the truth from us, when we hide it so often from ourselves."
+François de La Rochefoucauld
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=meme8383&theme=dracula&show_icons=true&locale=en" alt="meme8383" /></a>
