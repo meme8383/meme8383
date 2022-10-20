@@ -1,4 +1,4 @@
-Purdue University Aerospace Engineering '26
+Purdue University Computer Engineering '26
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=meme8383&theme=dracula&show_icons=true&locale=en" alt="meme8383" /></a>
