@@ -1,6 +1,8 @@
-Purdue University Computer Engineering '26
-
 Anime Enjoyer, Catppuccin >>>
+
+>"Man is an animal that makes bargains: no other animal does this - no dog exchanges bones with another"
+>- Adam Smith, Wealth of Nations
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=meme8383&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true&locale=en" alt="meme8383" /></a>
